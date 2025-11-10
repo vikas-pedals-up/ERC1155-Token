@@ -1,4 +1,4 @@
-{ "Id":"",
-  "name": "LINJ Token",
+{ 
+  "name": "LINJ_Token",
   "description": "This is a simple ERC1155"
 }
